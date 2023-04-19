@@ -1,0 +1,5 @@
+SQL_HOST = "localhost"
+SQL_USER = "root"
+SQL_PASS = "aditya"
+SQL_DB1 = "new_schema"
+SQL_DB2 = "user_details"
